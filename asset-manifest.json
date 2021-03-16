@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/petparkpwa/static/css/main.7086a6ba.chunk.css",
+    "main.js": "/petparkpwa/static/js/main.f9bbf692.chunk.js",
+    "main.js.map": "/petparkpwa/static/js/main.f9bbf692.chunk.js.map",
+    "runtime-main.js": "/petparkpwa/static/js/runtime-main.c8740869.js",
+    "runtime-main.js.map": "/petparkpwa/static/js/runtime-main.c8740869.js.map",
+    "static/css/2.150d169a.chunk.css": "/petparkpwa/static/css/2.150d169a.chunk.css",
+    "static/js/2.ebc56a90.chunk.js": "/petparkpwa/static/js/2.ebc56a90.chunk.js",
+    "static/js/2.ebc56a90.chunk.js.map": "/petparkpwa/static/js/2.ebc56a90.chunk.js.map",
+    "index.html": "/petparkpwa/index.html",
+    "service-worker.js": "/petparkpwa/service-worker.js",
+    "service-worker.js.map": "/petparkpwa/service-worker.js.map",
+    "static/css/2.150d169a.chunk.css.map": "/petparkpwa/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.7086a6ba.chunk.css.map": "/petparkpwa/static/css/main.7086a6ba.chunk.css.map",
+    "static/js/2.ebc56a90.chunk.js.LICENSE.txt": "/petparkpwa/static/js/2.ebc56a90.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/petparkpwa/static/media/404.a87729c6.jpg",
+    "static/media/cat.209457df.jpg": "/petparkpwa/static/media/cat.209457df.jpg",
+    "static/media/cat2.e0eb7c25.jpg": "/petparkpwa/static/media/cat2.e0eb7c25.jpg",
+    "static/media/logo.103b5fa1.svg": "/petparkpwa/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8740869.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.ebc56a90.chunk.js",
+    "static/css/main.7086a6ba.chunk.css",
+    "static/js/main.f9bbf692.chunk.js"
+  ]
+}
